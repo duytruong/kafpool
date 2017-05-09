@@ -1,0 +1,2 @@
+%{"kafka_ex": {:hex, :kafka_ex, "0.6.5", "01c160cbfbe67f6dd60da446b7e7e43f3e51ceb943478f9f7ac425ac0f925b18", [:mix], []},
+  "poolboy": {:hex, :poolboy, "1.5.1", "6b46163901cfd0a1b43d692657ed9d7e599853b3b21b95ae5ae0a777cf9b6ca8", [:rebar], []}}
